@@ -1,0 +1,33 @@
+/* Product.css */
+.product {
+  background-color:lightgrey;
+    padding: 15px;
+    margin: 10px;
+    width: 250px;
+    text-align: left;
+    box-shadow: 4px 2px 3px lightskyblue;
+  }
+  
+  .product h5 {
+    margin-bottom: 10px;
+  }
+  
+  .product p {
+    margin-bottom: 15px;
+  }
+  
+  
+  .product button {
+    display: block; /* Make the button a block element */
+   
+    background-color: lightcoral;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .product button:hover {
+    background-color: lightslategray;
+  }
+  
